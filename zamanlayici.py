@@ -4,7 +4,6 @@ from PyQt5.QtCore import QTimer
 from PyQt5.QtGui import QIcon
 from PyQt5 import QtGui,QtCore
 from time import sleep
-#from datetime import datetime
 from PyQt5.QtWidgets import QMainWindow,QApplication
 from zamanlayici_main import Ui_MainWindow
 
