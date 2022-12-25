@@ -18,6 +18,10 @@ try:
 
             self.ui = Ui_MainWindow()
             self.ui.setupUi(self)
+            
+            self.setWindowTitle("Zamanlayıcı")
+            self.setWindowIcon(QIcon("Resimler/saat.ico"))
+
 
             self.ui.baslat.clicked.connect(self.start)
             self.ui.durdur.clicked.connect(self.stop)
