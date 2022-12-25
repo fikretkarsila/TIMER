@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>Resimler/baslat.png</file>
+    <file>Resimler/devam_et.png</file>
+    <file>Resimler/duraklat.png</file>
+    <file>Resimler/durdur.png</file>
+    <file>Resimler/power.png</file>
+  </qresource>
+</RCC>
